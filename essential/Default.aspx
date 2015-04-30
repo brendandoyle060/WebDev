@@ -80,13 +80,13 @@
                             </h1>
 
                             <h3>
-                                About Me
+                                <strong>About Me</strong>
                             </h3>
                             <p>
                                 I'm currently a fifth year Computer Science major at Northeastern University.
                             </p>
                             <h3>
-                                Hobbies
+                                <strong>Hobbies</strong>
                             </h3>
                             <p>
                                 I love running and working out. Most of my exercise time is spent training for obstacle course races, 
